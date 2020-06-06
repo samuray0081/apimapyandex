@@ -1,0 +1,5 @@
+<resources>
+    <string name="unknown_error_message" />
+    <string name="remote_error_message" />
+    <string name="network_error_message" />
+</resources>
